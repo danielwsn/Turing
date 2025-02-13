@@ -5,7 +5,7 @@ This repository is the matlab code of [Solution landscape of reaction-diffusion 
 
 ## Requirements
 
-This repository requires MATLAB version 2020a or higher. Please ensure that your environment meets this requirement for optimal performance and compatibility.
+This repository requires MATLAB version R2020a or higher. Please ensure that your environment meets this requirement for optimal performance and compatibility.
 
 
 ## Usage
