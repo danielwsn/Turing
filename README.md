@@ -15,4 +15,4 @@ There are two separate parts of code:
 
 2.The second part(3-species) contains the construction of solution landscape and the computation of action in a 3-species RD model.
 
-They both contains dowmward search and upward search in HiSD algorithms
+They both contain dowmward search and upward search in HiSD algorithms
